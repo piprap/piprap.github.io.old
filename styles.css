@@ -1,0 +1,16 @@
+#canvas {
+    border: 1px solid black;
+}
+#center{
+    justify-content: left;
+    display:  flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+#text{
+    justify-content: center;
+    display:  flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 30%;
+}
